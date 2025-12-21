@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "globby": "16.0.0"
+  },
+  "scripts": {
+    "test": "node test.mjs"
+  }
+}
