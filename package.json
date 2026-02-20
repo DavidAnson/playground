@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "markdownlint-cli2": "0.21.0"
+  },
+  "scripts": {
+    "test": "markdownlint-cli2 test.md"
+  }
+}
