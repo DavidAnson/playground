@@ -1,0 +1,10 @@
+{
+  "MD033": {
+    "allowed_elements": ["u", "a", "img", "span", "details", "abbr"]
+  },
+  "MD013": {
+    "line_length": 150,
+    "ignore_code_blocks": true,
+    "ignore_tables": true
+  }
+}

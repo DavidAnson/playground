@@ -1,2 +1,5 @@
 # playground
-A place for temporary commits and collaboration
+
+<span>Allowed by MD033 per configuration</span>
+
+<p>Reported by MD033</p>
