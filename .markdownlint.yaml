@@ -1,5 +1,3 @@
-default: true
-
 ul-style:
   style: dash
 emphasis-style:

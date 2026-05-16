@@ -1,5 +1,4 @@
 config:
   extends: .markdownlint.yaml
-  default: true
 ignores:
   - node_modules
