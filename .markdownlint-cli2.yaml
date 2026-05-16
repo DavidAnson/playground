@@ -1,4 +1,15 @@
 config:
-  extends: .markdownlint.yaml
+  ul-style:
+    style: dash
+  emphasis-style:
+    style: underscore
+  strong-style:
+    style: asterisk
+  line-length:
+    line_length: 500
+  no-inline-html: false
+  custom-rules-below-this-point: false
+  no-bare-urls: false
+  MD001: false
 ignores:
   - node_modules
