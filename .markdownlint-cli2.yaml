@@ -1,4 +1,5 @@
 config:
   extends: .markdownlint.yaml
   default: true
-gitignore: "**/.{git,markdownlint}ignore"
+ignores:
+  - node_modules
